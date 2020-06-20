@@ -26,7 +26,6 @@ const OrderOptionIcons = ({values, required, setOptionValue, currentValue}) => (
   </div>
 );
 
-
 OrderOptionIcons.propTypes = {
   values: PropTypes.any,
   required: PropTypes.any,
