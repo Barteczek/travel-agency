@@ -1,0 +1,157 @@
+{
+  "orders": [
+    {
+      "car-rental": "suv",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive",
+        "kitchen"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "asd",
+      "contact": "asd",
+      "start-date": "",
+      "totalCost": "$30,719",
+      "id": 1
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$29,319",
+      "id": 2
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "car-rental": "luxury",
+      "accommodation": "suite",
+      "features": [
+        "kitchen"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "asd",
+      "contact": "asd",
+      "start-date": "",
+      "totalCost": "$30,619",
+      "id": 3
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$29,319",
+      "id": 4
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": {
+        "currencies": [
+          {
+            "code": "XOF",
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+          }
+        ],
+        "languages": [
+          {
+            "iso639_1": "fr",
+            "iso639_2": "fra",
+            "name": "French",
+            "nativeName": "français"
+          }
+        ],
+        "flag": "https://restcountries.eu/data/tgo.svg",
+        "name": "Togo",
+        "alpha2Code": "TG",
+        "alpha3Code": "TGO",
+        "capital": "Lomé",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "population": 7143000,
+        "timezones": [
+          "UTC"
+        ],
+        "borders": [
+          "BEN",
+          "BFA",
+          "GHA"
+        ],
+        "trips": [
+          "5cc1d10181a30e85c8d9ad4a",
+          "5cc1d101bc3e2bc2d8ca030d"
+        ]
+      },
+      "tripName": "Pleasant trek in outstanding Togo",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$29,319",
+      "id": 5
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": "TGO",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$29,319",
+      "id": 6
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": "TGO",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "ASD",
+      "start-date": "",
+      "totalCost": "$29,319",
+      "id": 7
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": "TGO",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "dsa",
+      "contact": "asd",
+      "start-date": "",
+      "totalCost": "$29,319",
+      "id": 8
+    }
+  ]
+}
