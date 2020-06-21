@@ -20,7 +20,6 @@ describe('Component OrderOption', () => {
 
     expect(component.find('.title').text()).toEqual(expectedTitle);
   });
-
 });
 
 const optionTypes = {
